@@ -7,7 +7,7 @@ The Job Application Assistant is a Streamlit app that helps job seekers generate
 ## Setup
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/job-application-assistant.git
+   git clone https://github.com/themindfuldude/atsresumeassistant.git
    ```
 2. Install the required dependencies:
    ```
