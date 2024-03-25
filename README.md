@@ -35,7 +35,7 @@ The Job Application Assistant is a Streamlit app that helps job seekers generate
    ```
 
 7. Set up your Anthropic Claude 3.0 API key: [Claude API Key and Installation](https://docs.anthropic.com/claude/docs/getting-access-to-claude)
-   - Sign up for an Anthropic account and obtain your API key. [Claude Console API sign Up $5 in free API credits-No Credit Card Required](https://console.anthropic.com)
+   - Sign up for an Anthropic account and obtain your API key. [Claude Console Sign Up $5 in free API credits-No Credit Card Required](https://console.anthropic.com)
    - Create a `.streamlit/secrets.toml` file in the project directory.
    - Add the following line to the `secrets.toml` file, replacing `YOUR_API_KEY` with your actual API key:
      ```
