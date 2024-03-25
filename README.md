@@ -31,7 +31,7 @@ The Job Application Assistant is a Streamlit app that helps job seekers generate
 
 6. Install the required dependencies:
    ```
-   pip install streamlit langchain anthropic voyageai numpy
+   pip install streamlit langchain langsmith anthropic voyageai numpy
    ```
 
 7. Set up your Anthropic Claude 3.0 API key: [Claude API Key and Installation](https://docs.anthropic.com/claude/docs/getting-access-to-claude)
