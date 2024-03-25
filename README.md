@@ -1,5 +1,5 @@
 # ATS Expert Resume, Summary and Cover Letter Assistant
-My ATS Resume Assistant utilizes Claude 3.0, a Streamlit UI and Voyage Vector Embeddings and RAG retrieval, Nearest Neighbor Search and Reranking.
+My ATS Resume Assistant utilizes Claude 3.0, a Streamlit UI and Voyage Vector Embeddings and RAG retrieval, Nearest Neighbor Search and Reranking to help you receive job offers.
 
 # ATS-optimized job application materials
 The Job Application Assistant is a Streamlit app that helps job seekers generate ATS-optimized job application materials using AI. By uploading their current resume, and a job description, users can obtain a compelling professional summary statement, a persuasive cover letter, and an updated resume tailored to the target role and optimized for applicant tracking systems (ATS) and human readers.
