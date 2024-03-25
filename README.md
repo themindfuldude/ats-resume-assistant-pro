@@ -34,16 +34,16 @@ The Job Application Assistant is a Streamlit app that helps job seekers generate
    pip install streamlit langchain anthropic voyageai numpy
    ```
 
-7. Set up your Anthropic Claude 3.0 API key: [Claude API Console](https://console.anthropic.com)
-   - Sign up for an Anthropic account and obtain your API key.
+7. Set up your Anthropic Claude 3.0 API key: [Claude API Console](https://docs.anthropic.com/claude/docs/getting-access-to-claude)
+   - Sign up for an Anthropic account and obtain your API key. [Claude API Console](https://console.anthropic.com)
    - Create a `.streamlit/secrets.toml` file in the project directory.
    - Add the following line to the `secrets.toml` file, replacing `YOUR_API_KEY` with your actual API key:
      ```
      ANTHROPIC_API_KEY = "YOUR_API_KEY"
      ```
 
-8. Set up your Voyage API key: [Voyage](https://www.voyageai.com/?ref=anthropic)
-   - Sign up for a Voyage account and obtain your API key.
+8. Set up your Voyage API key: [Voyage](https://docs.voyageai.com/docs/api-key-and-installation))
+   - Sign up for a Voyage account and obtain your API key. [Voyage](https://www.voyageai.com/?ref=anthropic)
    - Add the following line to the `.streamlit/secrets.toml` file, replacing `YOUR_VOYAGE_API_KEY` with your actual API key:
      ```
      VOYAGE_API_KEY = "YOUR_VOYAGE_API_KEY"
