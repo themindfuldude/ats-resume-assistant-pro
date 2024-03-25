@@ -19,9 +19,9 @@ The Job Application Assistant is a Streamlit app that helps job seekers generate
    conda activate ats-assistant
    ```
 
-4. Clone the repository:
+4. Clone the repository. Copy the text below and paste it in a terminal window:
    ```
-   git clone https://github.com/themindfuldude/atsresumeassistant.git
+   git clone https://github.com/themindfuldude/ats-resume-assistant-pro.git
    ```
 
 5. Navigate to the project directory:
