@@ -1,4 +1,4 @@
-```Python Streamlit code using Voyage embeddings and API:
+```Python Claude 3.0 Streamlit code using Voyage embeddings and API:
 
 import streamlit as st
 import os
@@ -37,7 +37,7 @@ def process_files(resume, cover_letter, job_description):
     1. An ATS-compliant professional summary statement.
     2. An ATS-compliant cover letter.
     3. An ATS-compliant resume.
-    Ensure the generated content is tailored to the target role and industry, free of errors, and adheres to best practices for modern job search documents.
+    Ensure the generated content is tailored to the target role and industry, free of errors, and adheres to best practices for modern ATS job search documents.
     """
 
     # Get the embedding of the query
