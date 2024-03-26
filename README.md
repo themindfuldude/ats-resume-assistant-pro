@@ -1,4 +1,4 @@
-# ATS Expert Resume, Summary and Cover Letter Assistant
+# ATS Resume Pro
 My ATS Resume Assistant utilizes Claude 3.0, a Streamlit UI and Voyage AI Vector Embeddings, RAG retrieval, Nearest Neighbor Search and Reranking to help you receive job offers.
 
 # ATS-optimized job application materials
