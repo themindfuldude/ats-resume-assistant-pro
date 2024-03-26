@@ -1,5 +1,5 @@
-# ATS Resume Pro
-My ATS Resume Assistant utilizes Claude 3.0, a Streamlit UI and Voyage AI Vector Embeddings, RAG retrieval, Nearest Neighbor Search and Reranking to help you receive job offers.
+# ATS AI Resume Pro
+My Applicant Travking Sysytem ATS Resume Assistant utilizes Claude 3.0, a Streamlit UI and Voyage AI Vector Embeddings, RAG retrieval, Nearest Neighbor Search and Reranking to help you receive job offers.
 
 # ATS-optimized job application materials
 The Job Application Assistant is a Streamlit app that helps job seekers generate ATS-optimized job application materials using AI. By uploading their current resume, and a job description, users can obtain a compelling professional summary statement, a persuasive cover letter, and an updated resume tailored to the target role and optimized for applicant tracking systems (ATS) and human readers.
@@ -10,8 +10,11 @@ The Job Application Assistant is a Streamlit app that helps job seekers generate
    - Run the installer and follow the installation instructions.
 
 2. Create a new conda virtual environment:
+    conda create --name [name for the environment. Add the python version] 
    ```
-   conda create --name ats-assistant python=3.11
+Example:
+   ```
+   conda create --name [ats-assistant python=3.11]
    ```
 
 3. Activate the conda virtual environment:
